@@ -1,3 +1,3 @@
 # git_test
-Test repo creted as aprt of TOP.
+Test repo created as part of TOP.
 Gidday Odin
